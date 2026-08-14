@@ -2,12 +2,6 @@
 
 A full-stack web application designed for movie enthusiasts to discover films, write detailed reviews, rate movies, and engage with a community of film lovers. 
 
-Live Demo: https://cinereview-demo.com  
-Frontend Repo: https://github.com/your-username/cinereview-frontend  
-Backend Repo: https://github.com/your-username/cinereview-backend  
-
----
-
 ## Table of Contents
 
 - [Overview](#overview)
