@@ -51,37 +51,43 @@ To solve the problem of fragmented movie tracking and superficial reviews by pro
 
 ## Tech Stack
 
-### Frontend
-•	React
-•	HTML5
-•	Tailwind CSS
-•	Chart.js / Axios
+### Core Language
 
-### Backend
-•	Python + Flask / FastAPI
-•	REST API
-•	Joblib / Scikit-Learn Model Runner
-•	Pandas & NumPy
+Python 3
 
-### Database
-•	PostgreSQL / MongoDB
-•	SQLAlchemy / Mongoose
+### Machine Learning & Data Science Libraries
 
-### Tools
-•	Git & GitHub
-•	VS Code
-•	Jupyter Notebooks
-•	Postman
+scikit-learn 1.4.2
+pandas
+numpy
+matplotlib
+joblib
+
+### Specific ML Components (from scikit-learn)
+
+OrdinalEncoder
+ColumnTransformer
+SelectPercentile
+
+### Web Framework
+
+Streamlit
+
+### Development Environment
+
+Jupyter Notebook
+venv (virtual environment)
+
+### Storage & Infrastructure
+
+Azurite
+Queue Storage
+
+### Data
+
+CSV files
 
 ---
-
-## Architecture
-
-Client (Frontend - React)  
-↓  
-Server (REST API - Node/Express)  
-↓  
-Database (MongoDB)  
 
 ### Folder Structure
 
