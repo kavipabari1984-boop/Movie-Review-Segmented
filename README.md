@@ -62,6 +62,7 @@ pandas
 numpy
 matplotlib
 joblib
+Torch & Transformers 
 
 ### Specific ML Components (from scikit-learn)
 
@@ -72,16 +73,6 @@ SelectPercentile
 ### Web Framework
 
 Streamlit
-
-### Development Environment
-
-Jupyter Notebook
-venv (virtual environment)
-
-### Storage & Infrastructure
-
-Azurite
-Queue Storage
 
 ### Data
 
